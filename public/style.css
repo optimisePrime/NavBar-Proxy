@@ -1,0 +1,17 @@
+.grid {
+	display: grid;
+	grid-template-columns:auto;
+	margin-top: 10px;
+}
+
+#product-overview{
+	display: grid;
+	grid-column: 1;
+	margin-right: 20px;
+	z-index: 1;
+}
+
+#Checkout{
+	display: grid;
+	grid-column: 2;
+}
